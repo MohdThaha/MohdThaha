@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammed Thaha Dawood</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **MongoDB,ExpressJS,React,NodeJS**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 📫 How to reach me **thahad2@gmail.com**
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a622380-3843-4d00-a0af-5242028c7396" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 <p align="left">
