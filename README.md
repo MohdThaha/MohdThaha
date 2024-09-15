@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thahad2@gmail.com**
 
-[![Your Credly Badge](https://via.placeholder.com/150)]([https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396](https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396/public_url))
+[![Your Credly Badge]]([https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396](https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396/public_url))
 
 
 <p align="left"></p>
