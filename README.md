@@ -5,9 +5,7 @@
 
 - 📫 How to reach me **thahad2@gmail.com**
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396/public_url" alt="aws" width="40" height="40"/> 
-  </a>
+
 
 <p align="left"></p>
 
