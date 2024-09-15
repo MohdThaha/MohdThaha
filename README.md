@@ -5,8 +5,9 @@
 
 - 📫 How to reach me **thahad2@gmail.com**
 
-[![Your Credly Badge]]([https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396](https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396/public_url))
-
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg](https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396/public_url)" alt="aws" width="40" height="40"/> 
+  </a>
 
 <p align="left"></p>
 
