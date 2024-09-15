@@ -5,8 +5,7 @@
 
 - 📫 How to reach me **thahad2@gmail.com**
 
-<!-- Instead of embedding JavaScript, you can use a link to the Credly badge -->
-[![Credly Badge](https://images.credly.com/size/340x340/images/6a622380-3843-4d00-a0af-5242028c7396/badge.png)](https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396/public_url)
+[![Credly Badge](https://images.credly.com/size/340x340/images/70f2f5f4-b909-4f6e-abe1-cc6a9e9fb7c4/cloud-practitioner.png)](https://www.credly.com/badges/6a622380-3843-4d00-a0af-5242028c7396/public_url)
 
 
 
