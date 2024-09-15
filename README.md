@@ -7,11 +7,9 @@
 
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://images.credly.com/size/220x220/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="aws" width="40" height="40"/> 
+  <img src="https://images.credly.com/size/220x220/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="aws" width="150" height="150"/> 
   </a>
 
-
-	https://images.credly.com/size/220x220/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png
 
 <p align="left"></p>
 
