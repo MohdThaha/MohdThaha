@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thahad2@gmail.com**
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a622380-3843-4d00-a0af-5242028c7396" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <p align="left"></p>
 
