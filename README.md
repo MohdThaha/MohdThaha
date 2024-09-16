@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **thahad2@gmail.com**
 
-
+  <h3 align="left">Badges</h3>
+  <h4 align="left">Badges</h4>
+  
   <a href="https://www.credly.com/badges/8bb69d6f-dd05-4f4c-9323-134bcf5b1dd0/public_url" target="_blank" rel="noreferrer"> 
   <img src="https://images.credly.com/size/220x220/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" alt="aws" width="150" height="150"/> 
   </a>
