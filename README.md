@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **thahad2@gmail.com**
 
-  <h3 align="left">Badges</h3>
+  # 💻 Badge:
   <h4 align="left">Cloud Computing</h4>
   
   <a href="https://www.credly.com/badges/df8711ea-0ca0-45b4-aed8-4ac2fa8a6a6a/public_url" target="_blank" rel="noreferrer"> 
@@ -130,7 +130,7 @@
 </p>
 -->
 
-# 💻 Tech Stack:
+# 💻 Badge:
 
 
 
