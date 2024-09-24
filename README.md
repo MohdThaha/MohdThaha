@@ -6,7 +6,7 @@
 - 📫 How to reach me **thahad2@gmail.com**
 
   # 🏅 Badge:
-  <h4 align="left">Machine Learing & AI</h4>
+  <h4 align="left">Machine Learing & Artificial Intelligence</h4>
 
   <a href="https://www.credly.com/badges/f950c294-8a85-4f7e-b5f5-b27f49e69782/public_url" target="_blank" rel="noreferrer"> 
   <img src="https://images.credly.com/size/220x220/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" alt="aws" width="150" height="150"/> 
