@@ -6,7 +6,7 @@
 - 📫 How to reach me **thahad2@gmail.com**
 
   # 🏅 Badge:
-  <h4 align="left">Cloud Computing</h4>
+  <h4 align="left">Machine Learing & AI</h4>
   
   <a href="https://www.credly.com/badges/df8711ea-0ca0-45b4-aed8-4ac2fa8a6a6a/public_url" target="_blank" rel="noreferrer"> 
   <img src="https://images.credly.com/size/220x220/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="aws" width="150" height="150"/> 
@@ -15,6 +15,8 @@
   <a href="https://www.credly.com/badges/8bb69d6f-dd05-4f4c-9323-134bcf5b1dd0/public_url" target="_blank" rel="noreferrer"> 
   <img src="https://images.credly.com/size/220x220/images/629a2bb9-14a6-47b3-b17e-f1056b1404d0/image.png" alt="aws" width="150" height="150"/> 
   </a>
+
+  <h4 align="left">Cloud Computing</h4>
 
   <a href="https://www.credly.com/badges/a141f260-a0dd-4573-aaab-c2ba61da5e95/public_url" target="_blank" rel="noreferrer"> 
   <img src="https://images.credly.com/size/220x220/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="aws" width="150" height="150"/> 
