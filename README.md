@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Thaha Dawood</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 👨‍💻 MERN Stack Developer
+- 👨‍💻 Backend Engineer(Backend Developer/DevOps Engineer) 
   
 - 🌱 I’m currently learning **Cloud Computing**
 
