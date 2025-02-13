@@ -182,4 +182,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MohdThaha&limit=5&theme=dark&combine_all_yearly_contributions=true)
 -->
-[![](https://visitcount.itsvg.in/api?id=MohdThaha&icon=5&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MohdThaha&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
