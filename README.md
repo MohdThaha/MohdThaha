@@ -5,7 +5,6 @@
 🔹 Experienced in ERP, CRM, accounting, and billing solutions.  
 🔹 Focused on clean code, performance optimization, and security.  
 
----
   # 🏅 Badge:
   <h4 align="left">Machine Learing & Artificial Intelligence</h4>
   <a href="https://www.credly.com/badges/f950c294-8a85-4f7e-b5f5-b27f49e69782/public_url" target="_blank" rel="noreferrer"> 
