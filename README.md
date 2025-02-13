@@ -6,13 +6,6 @@
 🔹 Focused on clean code, performance optimization, and security.  
 
 ---
-
-<h1 align="center">Hi 👋, I'm Mohammed Thaha Dawood</h1>
-<h3 align="center">A passionate Backend Engineer from India</h3>
-- 👨‍💻 Backend Engineer(Backend Developer/DevOps Engineer) 
-  
-- 🌱 I’m currently learning **Cloud Computing**
-- 📫 How to reach me **thahad2@gmail.com**
   # 🏅 Badge:
   <h4 align="left">Machine Learing & Artificial Intelligence</h4>
   <a href="https://www.credly.com/badges/f950c294-8a85-4f7e-b5f5-b27f49e69782/public_url" target="_blank" rel="noreferrer"> 
