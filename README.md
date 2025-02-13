@@ -1,3 +1,12 @@
+### Hi there, I'm Thaha! 👋
+
+🚀 **Junior MERN Stack Developer | Cloud Computing Enthusiast**  
+🔹 Passionate about building scalable SaaS applications and microservices.  
+🔹 Experienced in ERP, CRM, accounting, and billing solutions.  
+🔹 Focused on clean code, performance optimization, and security.  
+
+---
+
 <h1 align="center">Hi 👋, I'm Mohammed Thaha Dawood</h1>
 <h3 align="center">A passionate Backend Engineer from India</h3>
 - 👨‍💻 Backend Engineer(Backend Developer/DevOps Engineer) 
