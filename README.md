@@ -1,4 +1,4 @@
-### Hi there, I'm Thaha! 👋
+# Hi there, I'm Thaha! 👋
 
 🚀 **Junior MERN Stack Developer | Cloud Computing Enthusiast**  
 🔹 Passionate about building scalable SaaS applications and microservices.  
