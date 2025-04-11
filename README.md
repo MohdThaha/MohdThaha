@@ -15,7 +15,11 @@
   <img src="https://images.credly.com/size/220x220/images/51984979-f759-49f0-8bb3-5310d364fdbe/image.png" alt="aws" width="150" height="150"/> 
   </a>
   
-  
+
+  <a href="https://www.credly.com/badges/24abeb80-c3e3-47c0-a7ce-07324b4d783e/public_url" target="_blank" rel="noreferrer"> 
+  <img src="https://images.credly.com/size/220x220/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" alt="aws" width="150" height="150"/> 
+  </a>
+  	
   
   <h4 align="left">Cloud Computing</h4>
   <a href="https://www.credly.com/badges/8bb69d6f-dd05-4f4c-9323-134bcf5b1dd0/public_url" target="_blank" rel="noreferrer"> 
