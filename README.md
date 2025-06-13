@@ -21,7 +21,7 @@
     <img 
       src="https://images.credly.com/size/220x220/images/cef82b2e-970a-4318-8e59-c3e26b7f5c19/image.png" 
       alt="gcp" 
-      style="width: 100%; height: auto; object-fit: cover; object-position: center;"
+      style="width: 100%; height: 50%; object-fit: cover; object-position: center;"
     />
   </div>
 </a>
