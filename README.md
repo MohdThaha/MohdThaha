@@ -48,11 +48,3 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohdThaha&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohdThaha&limit=5&theme=dark&combine_all_yearly_contributions=true)
--->
-[![](https://visitcount.itsvg.in/api?id=MohdThaha&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
