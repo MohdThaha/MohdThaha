@@ -1,6 +1,6 @@
 # Hi there, I'm Mohammed Thaha! 👋
 
-🚀 **AI Developer | MERN Stack Developer | Cloud Computing Enthusiast**  
+🚀 **Backend Software Developer | AI Developer | Cloud Computing Enthusiast**  
 🔹 Passionate about building scalable SaaS applications and microservices.  
 🔹 Experienced in ERP, CRM, accounting, and billing solutions.  
 🔹 Focused on clean code, performance optimization, and security.  
