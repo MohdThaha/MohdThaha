@@ -74,11 +74,22 @@
 
 ## `$ cat ./projects`
 
-> Most of my production work lives under NDA — ERP platforms, CRM billing SaaS, and field sales systems
-> built for real clients at scale. What I *can* share: multi-tenant architecture, microservices on AWS ECS,
-> CI/CD pipelines, and request queuing systems handling concurrent load in production.
->
-> **Public repos below ↓ — side projects, experiments, and open work.**
+> Most of my production work lives under NDA — ERP platforms, CRM billing SaaS, and field sales systems built for real clients at scale. The tools below were born directly from those problems.
+
+### 📡 outrelay
+> *Events never lost across service boundaries.*
+
+Reliable event relay for distributed systems — ensures messages reach their destination even when services go down, restart, or misbehave. Built for the reality of production microservices.
+
+### ⚙️ saga-orchestrator
+> *Multi-step transactions never left half-finished.*
+
+A SAGA pattern orchestrator for managing complex, multi-service workflows. When one step fails, compensating actions roll back cleanly — no ghost states, no inconsistent data.
+
+### 🛡️ idem-guard
+> *Endpoints never executed twice accidentally.*
+
+Idempotency middleware for Node.js APIs. Duplicate requests — from retries, network blips, or impatient users — are detected and short-circuited before they cause damage.
 
 ---
 
