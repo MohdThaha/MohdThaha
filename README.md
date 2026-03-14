@@ -23,9 +23,9 @@
 ```json
 {
   "name": "Mohammed Thaha",
-  "role": "Backend Developer & Jr. CTO",
+  "role": "Backend Developer",
   "focus": ["SaaS Platforms", "ERP Systems", "Microservices", "AI Integration"],
-  "currently_building": "Multi-tenant ERP/CRM billing SaaS — BillBizz",
+  "currently_building": "Multi-tenant ERP/CRM billing SaaS",
   "currently_learning": ["DSA", "Cloud Architecture", "TypeScript Migration"],
   "architecture_of_choice": "Distributed microservices on AWS ECS",
   "asks_me_about": ["Node.js", "MongoDB", "Docker", "System Design", "BullMQ"],
