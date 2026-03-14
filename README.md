@@ -130,18 +130,6 @@ Idempotency middleware for Node.js APIs. Duplicate requests — from retries, ne
 
 ---
 
-## `$ git log --oneline --evolution`
-
-```
-[NOW]     Hardening BillBizz: BullMQ queuing, Docker, AWS ECS deployment
-[NEXT]    API Gateway layer + gradual DB splitting per service
-[SOON]    TypeScript migration across JS codebases
-[FUTURE]  True microservices: SAGA, event-driven architecture, cloud-native
-[ALWAYS]  DSA practice → targeting SDE roles at scale
-```
-
----
-
 ## `$ cat ./philosophy.txt`
 
 > *Solve today's problem cleanly. Don't engineer for a scale you haven't earned yet.*
